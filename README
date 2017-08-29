@@ -1,0 +1,16 @@
+1.本测试框架依据Gtest编写，由于Gtest没有覆盖率统计，特加入gcov和lcov进行覆盖率统计
+2.start是简易版http服务器
+3.脚本Unittest.sh 可以实现对所有文件的Html覆盖率统计
+4.脚本run.sh可实现对单一文件的覆盖率信息统计，
+5.整个框架由Cmake产生Makefile
+
+
+6.新手试做，很多不足还请指出。
+
+
+
+	Thanks for watching!
+
+by: cody
+
+mail: cody_g@163.com
